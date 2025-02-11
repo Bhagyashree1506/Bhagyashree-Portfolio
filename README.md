@@ -10,8 +10,7 @@ https://bhagyashree-chilate.web.app/
 
 </center>
 
-## Technologies Used
-<img  src="https://skillicons.dev/icons?i=java,javascript,c,python,html,css,sql,xml,android,firebase,react,googlecloud,github,ml,ai,tensorflow,aws&perline=7"/>
+
 
 ## Installation
 1. Clone the repository
